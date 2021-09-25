@@ -1,0 +1,12 @@
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/bin/Debug/net5.0/Domain.dll
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.dll
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/danielleleslie/github/ITDEV_162_ECOMMERCE/Domain/obj/Debug/net5.0/Domain.pdb
