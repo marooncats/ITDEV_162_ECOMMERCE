@@ -44,10 +44,10 @@ namespace API
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1"));
             }
 
-            app.UseHsts();
+            /*app.UseHsts();
             app.UseHttpsRedirection();
 
-            app.UseHttpsRedirection();
+            app.UseHttpsRedirection();*/
 
             app.UseRouting();
 
